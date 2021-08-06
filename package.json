@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node index.js"
   },
+  "scripts": {
+  "test": "echo \"No test specified\""
+},
   "dependencies": {
     "express": "^4.13.3"
   },
@@ -14,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Abhishek08/node-js-sample.git"
+    "url": "https://github.com/vsupe358/NodeJs.git"
   },
   "keywords": [
     "node",
